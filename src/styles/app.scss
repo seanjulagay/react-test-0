@@ -1,0 +1,12 @@
+.app {
+  padding: 2rem 0 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .app-container {
+    width: 50vw;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Uniqto",
+    "description": "Inventory System",
+    "image": "card-bg-uniqto.png",
+    "hoverImage": null
+  },
+  {
+    "title": "MATH WARS: Card Edition",
+    "description": "Basic math game for kids",
+    "image": "card-bg-mathwars.png",
+    "hoverImage": "hover-bg-mathwars.png"
+  },
+  {
+    "title": "EKCO",
+    "description": "Mobile messaging app",
+    "image": "card-bg-ekco.png",
+    "hoverImage": null
+  },
+  {
+    "title": "ReelTime",
+    "description": "Interactive streaming app",
+    "image": "card-bg-reeltime.png",
+    "hoverImage": null
+  },
+  {
+    "title": "ShopStyle",
+    "description": "E-commerce web interface",
+    "image": "card-bg-shopstyle.png",
+    "hoverImage": null
+  },
+  {
+    "title": "Cybershop Inc.",
+    "description": "Cybermall landing page",
+    "image": "card-bg-cybershop.png",
+    "hoverImage": null
+  },
+  {
+    "title": "PROJECT: OUTBREAK",
+    "description": "FPS shooter game",
+    "image": "card-bg-projectoutbreak.png",
+    "hoverImage": null
+  },
+  {
+    "title": "La Salle Rush!",
+    "description": "Game-based virtual campus tour",
+    "image": "card-bg-lasallerush.png",
+    "hoverImage": "hover-bg-lasallerush.png"
+  },
+  {
+    "title": "Smile Solutions",
+    "description": "Dental clinic website",
+    "image": "card-bg-smilesolutions.png",
+    "hoverImage": null
+  }
+]
